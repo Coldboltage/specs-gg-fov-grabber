@@ -1,7 +1,8 @@
 # specs-gg-fov-grabber
 I wanted to get the average FOV so I did that
 
-To start: npm start
+Install packages: npm install
+Start node: npm start
 
 Process
 
